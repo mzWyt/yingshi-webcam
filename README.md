@@ -6,6 +6,8 @@ Resources:
 
 [萤石开放平台](https://open.ys7.com/)
 
+------------------------------------------------
+
 视频嵌入式
     iframe可以直接嵌入到页面中，作为页面的一个元素，可以搭载自己页面的UI进行开发，适合需要视频融入页面的产品。
 
@@ -18,8 +20,10 @@ Resources:
   allowfullscreen
 >
 </iframe>
-参数介绍
 ```
+
+参数介绍
+
 url=ezopen://open.ys7.com/203751922/1.live&autoplay=1&accessToken=ra.a7xvb48j8zg2q30m2u126bg52s0akn6o-6eymxh3w9q-0crijo7-f9fuekxen
 
     url：监控地址，包含验证码、设备序列号、通道号、清晰度、播放类型
