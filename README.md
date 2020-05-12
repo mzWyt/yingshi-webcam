@@ -25,6 +25,7 @@ Resources:
 参数介绍
 
 EXAMPLE:
+
 url=ezopen://open.ys7.com/203751922/1.live&autoplay=1&accessToken=ra.a7xvb48j8zg2q30m2u126bg52s0akn6o-6eymxh3w9q-0crijo7-f9fuekxen
 
     url：监控地址，包含验证码、设备序列号、通道号、清晰度、播放类型
